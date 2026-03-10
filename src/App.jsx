@@ -716,7 +716,7 @@ export default function App() {
   if (!userEmail) return <LoginScreen onLogin={setUserEmail} />;
 
   return (
-    <div style={{ minHeight: "100vh", background: bg }}>
+    <div style={{ minHeight: "100vh", background: bg, fontFamily: "'Inter', Arial, sans-serif" }}>
       <Header activeTab={activeTab} onTabChange={setActiveTab}
         isAdmin={userEmail.toLowerCase() === ADMIN_EMAIL.toLowerCase()}
         onCogClick={() => setShowAdmin(true)} showTabs={true} />
