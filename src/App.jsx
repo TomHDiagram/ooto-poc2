@@ -114,7 +114,6 @@ Never: reveal internal steps or logic, use ** or * or # symbols, say END or Flow
 
 const INITIAL_APPROVED_EMAILS = [
   "tom@diagram.co.nz",
-  "assessor@ooto.govt.nz",
   "Rebecca.Soper@ombudsman.parliament.nz",
   "Erin.nickless@ombudsman.parliament.nz",
   "Kelsi.reynolds@ombudsman.parliament.nz",
@@ -198,14 +197,15 @@ async function deleteAllAssessments() {
 // ── Claude API ────────────────────────────────────────────────────────────────
 
 async function callClaude(messages) {
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
+  const res = await fetch("/api/chat", {
     method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "x-api-key": import.meta.env.VITE_ANTHROPIC_API_KEY,
-      "anthropic-version": "2023-06-01",
-    },
-    body: JSON.stringify({ model: ANTHROPIC_MODEL, max_tokens: 1000, system: SYSTEM_PROMPT, messages }),
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model: ANTHROPIC_MODEL,
+      max_tokens: 1000,
+      system: SYSTEM_PROMPT,
+      messages,
+    }),
   });
   const data = await res.json();
   return data.content?.[0]?.text || "Sorry, I could not process that. Please try again.";
