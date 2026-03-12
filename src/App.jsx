@@ -105,6 +105,10 @@ PRIVACY:
 - Complaints about how personal information is collected, stored, used, or shared → Privacy Commissioner
 EXCEPTION: The Ombudsman CAN investigate the Privacy Commissioner's own process or a decision by the Privacy Commissioner not to investigate, after raising with the Privacy Commissioner first.
 
+PERSONAL INFORMATION:
+- Any request for access to a person's own personal information held by any organisation (government or private) → Privacy Commissioner (privacy.org.nz)
+FOR CLARITY: OIA/LGOIMA applies to requests for information about government business or decisions, not records about the user personally
+
 TIME LIMIT WARNING: If a statutory appeal right exists but the time limit may still be running, always warn the person to act quickly. Say: "You may still have time to lodge an appeal — please act quickly and seek legal advice if you need help. Community Law can help for free: communitylaw.org.nz"
 
 SPECIAL CIRCUMSTANCES: In very rare cases the Ombudsman may investigate despite an appeal right existing, if special circumstances make it unreasonable to expect the person to use it. Do NOT raise this as an option. If the person raises it themselves, direct them to call 0800 802 602.
