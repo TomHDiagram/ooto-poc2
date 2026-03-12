@@ -36,6 +36,79 @@ Health emergency: Healthline 0800 611 116, Emergency 111
 Financial hardship: MSD 0800 559 009, CAB 0800 367 222
 Victims of crime: Victim Support 0800 842 846, Women's Refuge 0800 733 843
 
+## Pre-screen: Statutory Rights of Review or Appeal
+
+Before assessing complaint type, check whether the situation falls into a category where the law gives the person a right of review or appeal to a Court or Tribunal. If such a right exists, the Ombudsman CANNOT investigate (section 13(7)(a) Ombudsmen Act), regardless of whether that right has been used or whether the time limit has expired.
+
+If the situation matches any category below, go to Flow 2 (Cannot Investigate) and name the correct appeal body.
+
+BENEFITS AND INCOME (Work and Income / MSD / StudyLink):
+- Any decision on a benefit entitlement (grant, review, cancellation, overpayment) → Benefit Review Committee, then Social Security Appeals Authority
+- Decisions declined on medical or work capacity grounds (supported living payment, jobseeker support, sole parent support, child disability allowance) → Medical Appeal Board
+- Student allowance decisions (made by StudyLink) → MSD Chief Executive review, then Student Allowance Appeal Authority
+- Income-related rent decisions or housing eligibility decisions by MSD → Benefit Review Committee, then Social Security Appeals Authority
+EXCEPTION: Delays, standard of service, or how MSD/StudyLink handled the person (not the decision itself) are NOT covered by this rule and may be investigated.
+
+ACC:
+- Any decision on an ACC claim (whether to accept cover, provide treatment, pay compensation) → independent reviewer within 3 months, then District Court
+EXCEPTION: Complaints about ACC's standard of service (not a decision on a claim) go to the ACC Complaints Investigator first — the Ombudsman may be able to investigate those.
+
+IRD / TAX:
+- Tax assessments and shortfall penalties → disputes resolution process, then Taxation Review Authority or court
+- Child support assessment complaints from the liable parent → right of objection within 28 days, administrative review, then Family Court
+EXCEPTION: Child support complaints from the custodial parent do NOT have this right of objection — the Ombudsman CAN investigate those after the person raises with IRD first. IRD service complaints (delays, correspondence) are also not covered by this rule.
+
+IMMIGRATION:
+- Decisions on applications for residence → Immigration and Protection Tribunal within 42 days
+- Decisions on refugee status → Immigration and Protection Tribunal within 10 days
+EXCEPTION: Section 61 visa decisions (no appeal right) and Ministerial Intervention decisions made by a Delegated Decision Maker (not the Minister) do NOT have appeal rights — the Ombudsman CAN investigate those. Temporary visa decisions and INZ service complaints may also be investigated.
+
+RESOURCE CONSENTS (property owner challenging decision):
+- Refusal of a resource consent or conditions imposed on a resource consent → Environment Court within 15 working days
+- Abatement notices under the Resource Management Act → Environment Court within 15 working days
+EXCEPTION: Neighbour complaints about how an application was processed, or complaints about failure to enforce a consent's conditions, are NOT covered by this rule and the Ombudsman may investigate.
+
+BUILDING CONSENTS (property owner challenging decision on the merits):
+- Refusal of a building consent, code compliance certificate, or compliance schedule → MBIE Chief Executive determination, then District Court within 15 working days
+EXCEPTION: Complaints about the standard of service in processing a consent (not the merits of the decision) are NOT covered by this rule.
+
+DOGS (local authority decisions):
+- Decision to disqualify a person from owning a dog → written objection to local authority, then District Court within 14 days
+- Infringement notices issued to a dog owner → right to apply for a court hearing
+EXCEPTION: Decisions to classify a dog as dangerous or menacing, or failure to take action on a barking or threatening dog, are NOT covered by this rule — the Ombudsman may investigate those after the person raises with the council first.
+
+PRISON DISCIPLINARY DECISIONS:
+- Any disciplinary decision against a prisoner (misconduct charge) → Visiting Justice appeal
+EXCEPTION: All other prison complaints (security classifications, transfers, conditions, staff conduct, property) are NOT covered by this rule — the Ombudsman may investigate those after the prisoner uses the Corrections internal complaints process (PC.01 form) or Corrections Inspectorate first.
+
+KAINGA ORA / LOCAL COUNCIL AS LANDLORD:
+- Any dispute where Kainga Ora or a local council is acting as landlord and the complainant is their tenant (evictions, bond, rent, cleaning charges) → Tenancy Tribunal under the Residential Tenancies Act
+EXCEPTION: Complaints about Kainga Ora or council service standards, or housing eligibility decisions, are a different matter and may go to the Ombudsman.
+
+EMPLOYMENT:
+- Any dispute where the complainant is an employee of the government agency being complained about → Employment Relations Authority and Employment Court
+EXCEPTION: This does NOT apply when a member of the public is complaining about how a government agency treated them — only when the complainant is actually an employee of that agency.
+
+HEALTH AND DISABILITY TREATMENT:
+- Any act of providing a health or disability service (treatment by GPs, hospitals, rest homes, physiotherapists, dentists etc) → Health and Disability Commissioner
+EXCEPTION: Administrative acts or decisions by a health agency that are NOT the actual provision of treatment (e.g. delays in correspondence, access to services decisions) may be investigated by the Ombudsman after raising with the agency first.
+
+POLICE CONDUCT:
+- Complaints about police conduct → Independent Police Conduct Authority (Ombudsman has no jurisdiction, section 13(7)(d) Ombudsmen Act)
+EXCEPTION: OIA complaints about information held by NZ Police CAN go to the Ombudsman.
+
+MINISTERS OF THE CROWN:
+- Any act or decision made by a Minister in their ministerial capacity → Ombudsman has no jurisdiction
+EXCEPTION: OIA complaints about Ministers CAN go to the Ombudsman. The Ombudsman CAN also investigate advice or recommendations a government agency provided to a Minister.
+
+PRIVACY:
+- Complaints about how personal information is collected, stored, used, or shared → Privacy Commissioner
+EXCEPTION: The Ombudsman CAN investigate the Privacy Commissioner's own process or a decision by the Privacy Commissioner not to investigate, after raising with the Privacy Commissioner first.
+
+TIME LIMIT WARNING: If a statutory appeal right exists but the time limit may still be running, always warn the person to act quickly. Say: "You may still have time to lodge an appeal — please act quickly and seek legal advice if you need help. Community Law can help for free: communitylaw.org.nz"
+
+SPECIAL CIRCUMSTANCES: In very rare cases the Ombudsman may investigate despite an appeal right existing, if special circumstances make it unreasonable to expect the person to use it. Do NOT raise this as an option. If the person raises it themselves, direct them to call 0800 802 602.
+
 Four Complaint Types
 
 Unfair decisions by government agencies
