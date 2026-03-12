@@ -318,10 +318,6 @@ async function saveAssessment(record) {
   }]);
 }
 
-async function deleteAllAssessments() {
-  await supabase.from("assessments").delete().neq("id", "");
-}
-
 // ── Claude API ────────────────────────────────────────────────────────────────
 
 async function callClaude(messages) {
@@ -759,12 +755,6 @@ function AdminModal({ onClose }) {
     await saveApprovedEmails(updated); setEmails(updated);
   };
 
-  const clearAllData = async () => {
-    try { await deleteAllAssessments(); showMsg("All assessment data cleared."); }
-    catch (e) { showMsg("Error: " + e.message); }
-    setConfirmAction(null);
-  };
-
   const resetEmailList = async () => {
     try { await saveApprovedEmails(INITIAL_APPROVED_EMAILS); setEmails(INITIAL_APPROVED_EMAILS); showMsg("Email list reset to default."); }
     catch (e) { showMsg("Error: " + e.message); }
@@ -801,31 +791,6 @@ function AdminModal({ onClose }) {
               <button onClick={addEmail} style={{ padding: "8px 16px", background: teal, color: "#fff", border: "none", borderRadius: 8, fontWeight: 600, cursor: "pointer" }}>Add</button>
             </div>
             {msg && <p style={{ fontSize: 13, color: teal, marginTop: 8 }}>{msg}</p>}
-            <div style={{ marginTop: 20, paddingTop: 16, borderTop: "1px solid #f0f0f0" }}>
-              <p style={{ fontSize: 13, fontWeight: 600, color: "#888", marginBottom: 10 }}>Danger Zone</p>
-              {confirmAction === "clear" ? (
-                <div style={confirmBox}>
-                  <p style={{ fontSize: 13, color: "#c0392b", marginBottom: 8 }}>Delete all assessment data? This cannot be undone.</p>
-                  <div style={{ display: "flex", gap: 8 }}>
-                    <button onClick={clearAllData} style={{ padding: "6px 14px", background: "#e74c3c", color: "#fff", border: "none", borderRadius: 6, fontWeight: 600, fontSize: 13, cursor: "pointer" }}>Yes, delete</button>
-                    <button onClick={() => setConfirmAction(null)} style={{ padding: "6px 14px", background: "none", border: "none", color: "#888", fontSize: 13, cursor: "pointer" }}>Cancel</button>
-                  </div>
-                </div>
-              ) : (
-                <button onClick={() => setConfirmAction("clear")} style={dangerBtn}>Delete all assessment data</button>
-              )}
-              {confirmAction === "reset" ? (
-                <div style={confirmBox}>
-                  <p style={{ fontSize: 13, color: "#c0392b", marginBottom: 8 }}>Reset email list to default? Manually added emails will be removed.</p>
-                  <div style={{ display: "flex", gap: 8 }}>
-                    <button onClick={resetEmailList} style={{ padding: "6px 14px", background: "#e74c3c", color: "#fff", border: "none", borderRadius: 6, fontWeight: 600, fontSize: 13, cursor: "pointer" }}>Yes, reset</button>
-                    <button onClick={() => setConfirmAction(null)} style={{ padding: "6px 14px", background: "none", border: "none", color: "#888", fontSize: 13, cursor: "pointer" }}>Cancel</button>
-                  </div>
-                </div>
-              ) : (
-                <button onClick={() => setConfirmAction("reset")} style={dangerBtn}>Reset email list to default</button>
-              )}
-            </div>
           </>
         )}
       </div>
