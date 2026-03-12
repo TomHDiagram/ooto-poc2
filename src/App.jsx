@@ -197,6 +197,7 @@ The person received a response but information was redacted or blacked out
 Do not identify this complaint type if:
 
 The person is asking for their own personal information under the Privacy Act
+CRITICAL: The person is asking for any information held about themself (that should direct to Privacy Commissioner)
 The complaint is only about how the agency handled a request procedurally with no mention of a refusal or withheld information
 The request was made to a private company, employer, or non-government body
 
