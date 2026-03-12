@@ -485,7 +485,7 @@ function Header({ activeTab, onTabChange, isAdmin, showTabs, onCogClick }) {
     <div style={{ background: cardBg, borderBottom: "1px solid #eee", padding: "0 24px", display: "flex", alignItems: "center", justifyContent: "space-between", height: 56 }}>
       <div style={{ display: "flex", alignItems: "center", gap: 10 }}>
         <span style={{ fontWeight: 800, fontSize: 18, letterSpacing: -0.5 }}>OOTO</span>
-        <span style={{ fontSize: 13, color: "#666" }}>AI - POC1 (v2.0)</span>
+        <span style={{ fontSize: 13, color: "#666" }}>AI - POC1 (v2.1)</span>
         <span style={{ background: teal, color: "#fff", fontSize: 11, fontWeight: 700, padding: "2px 8px", borderRadius: 20 }}>BETA</span>
       </div>
       {showTabs && (
