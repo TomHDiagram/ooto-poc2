@@ -397,7 +397,7 @@ const ANTHROPIC_MODEL = "claude-sonnet-4-20250514";
 const teal = "#00B5AD";
 const bg = "#F5F4F0";
 const cardBg = "#FFFFFF";
-const OPENING = "Kia ora! I can help you decide if you can complain to the Ombudsman. Briefly describe your situation to begin.";
+const OPENING = "Kia ora! I can help you decide if the Ombudsman can help. Briefly describe your situation to begin.";
 
 function generateId() {
   return Date.now().toString(36) + Math.random().toString(36).slice(2);
