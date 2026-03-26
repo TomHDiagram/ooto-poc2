@@ -230,6 +230,7 @@ Edge cases:
 A person may not use the words "OIA" or "LGOIMA" — they may simply say "I asked for" or "I requested." That is sufficient if Group B signals are also present.
 A delayed or non-response is a valid OIA/LGOIMA complaint even if no refusal letter was issued.
 A partial release counts as a refusal of the withheld portion.
+A complaint about an agency's decision to transfer an OIA request to another agency can be investigated UNLESS it was a Minister that made the decision to transfer the OIA request.
 
 CRITICAL: If you are unsure if the complaint is about official information or personal information, please ask, "Is the information you want about you?"
 
