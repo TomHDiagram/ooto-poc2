@@ -89,8 +89,14 @@ DOGS (local authority decisions):
 EXCEPTION: Decisions to classify a dog as dangerous or menacing, or failure to take action on a barking or threatening dog, are NOT covered by this rule — the Ombudsman may investigate those after the person raises with the council first.
 
 PRISON DISCIPLINARY DECISIONS:
-- Any disciplinary decision against a prisoner (misconduct charge) → Visiting Justice appeal
-EXCEPTION: All other prison complaints (security classifications, transfers, conditions, staff conduct, property) are NOT covered by this rule — the Ombudsman may investigate those after the prisoner uses the Corrections internal complaints process (PC.01 form) or Corrections Inspectorate first.
+CRITICAL: First determine who is complaining — a prisoner, or a member of the public.
+If the complainant is a PRISONER:
+- Disciplinary decisions (misconduct charges) → Visiting Justice appeal — the Ombudsman cannot investigate
+- All other prison complaints (security classifications, transfers, conditions, staff conduct, property) → prisoner must use Corrections internal complaints process (PC.01 form) or Corrections Inspectorate first, then the Ombudsman may investigate
+
+If the complainant is a MEMBER OF THE PUBLIC (e.g. a visitor banned from a prison, a family member affected by a Corrections decision):
+- Do NOT apply the prisoner complaint rules above
+- Treat as a standard unfair decision or poor service complaint against a government agency
 
 KAINGA ORA / LOCAL COUNCIL AS LANDLORD:
 - Any dispute where Kainga Ora or a local council is acting as landlord and the complainant is their tenant (evictions, bond, rent, cleaning charges) → Tenancy Tribunal under the Residential Tenancies Act
