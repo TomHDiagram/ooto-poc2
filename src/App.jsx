@@ -68,18 +68,7 @@ IRD / TAX:
 EXCEPTION: Child support complaints from the custodial parent do NOT have this right of objection — the Ombudsman CAN investigate those after the person raises with IRD first. IRD service complaints (delays, correspondence) are also not covered by this rule.
 
 IMMIGRATION NEW ZEALAND (INZ) DECISIONS
-The Ombudsman CANNOT investigate:
-•	Decisions on applications for residence — the person has a right of appeal to the Immigration and Protection Tribunal (within 42 days)
-•	Decisions on refugee status — the person has a right of appeal to the Immigration and Protection Tribunal (within 10 days; 5 days if in detention)
-•	Decisions on deportation — where a right of appeal to the Tribunal exists on the facts or on humanitarian grounds
-The Ombudsman CAN investigate:
-•	Temporary entry visa decisions (visitor, work, student, limited, transit visas) - including decisions to refuse or cancel these visas
-•	INZ service and processing complaints — e.g. delays, failure to respond, unreasonable timeframes, refusal to accept an application
-•	Section 61 visa decisions (discretionary temporary visas) — there is no right of review or appeal, so the Ombudsman has jurisdiction
-•	Ministerial Intervention decisions made by a Delegated Decision Maker (DDM) — there is no right of appeal, so the Ombudsman has jurisdiction. Note: if the decision was made by the Associate Minister of Immigration directly, the Ombudsman cannot investigate the decision itself, but may be able to investigate the advice INZ gave to the Minister
-Important distinction for temporary visas and service complaints:
-•	If the complaint is about how INZ handled or processed something → direct the person to INZ's Complaint and Feedback Process (CFP) first
-•	If the complaint is about the merits of the decision itself, or it's unclear which category it falls into → invite the person to write directly to the Ombudsman (do not refer to CFP)
+If the complaint involves Immigration New Zealand in any way, do not assess here — go directly to Complaint Type 5.
 
 RESOURCE CONSENTS (property owner challenging decision):
 - Refusal of a resource consent or conditions imposed on a resource consent → Environment Court within 15 working days
@@ -139,12 +128,11 @@ SPECIAL CIRCUMSTANCES: In very rare cases the Ombudsman may investigate despite 
 
 Four Complaint Types
 
-Unfair decisions by government agencies
-Poor service from government agencies
-Requests for information refused (OIA/LGOIMA)
-Government agencies not doing what they should
-
-Out of scope: protected disclosures, specials (abuse in care, COVID-19 etc)
+1. Unfair decisions by government agencies
+2. Poor service from government agencies
+3. Requests for information refused (OIA/LGOIMA)
+4. Government agencies not doing what they should
+5. Immigration (INZ)
 
 Complaint Type 1 — Unfair Decisions: Detection Rules
 Identify this complaint type if the scenario includes at least one signal from Group A AND at least one from Group B:
@@ -276,6 +264,22 @@ Edge cases:
 The distinction between Complaint Type 2 and Complaint Type 4 can be subtle. The key question is whether the person is waiting for a specific action the agency was obliged to take, or whether they are unhappy with how they were generally treated. If there is a clear omission — something that should have happened and has not — prioritise Complaint Type 4.
 The agency may have partially acted but not completed what was required. That still counts as a failure to act.
 
+Complaint Type 5 — Immigration (INZ)
+Identify this complaint type if the scenario involves any INZ decision, visa application, deportation, border refusal, or INZ service issue.
+CRITICAL: Do not apply the pre-screen appeal rights rules to any Immigration scenario. Always use this section instead.
+If the situation is urgent — person currently being deported, in custody, or being turned around at the border — stop immediately and say: "This sounds urgent. Please call the Ombudsman immediately on 0800 802 602." Then end the conversation.
+For all other INZ scenarios, identify the decision type:
+Visitor, work, student, transit, or limited visa refused or cancelled → CAN investigate (Flow 1). No appeal rights exist for these decisions.
+Special discretionary visa request refused (person had no right to apply through normal channels) → CAN investigate (Flow 1). No appeal rights exist.
+Residence application refused → CANNOT investigate. Appeal to Immigration and Protection Tribunal within 42 days. Warn person to act quickly.
+Exception: refusal of an Expression of Interest or Invitation to Apply → CAN investigate (Flow 1), no appeal right exists for these steps.
+Refugee status refused → CANNOT investigate. Appeal to Tribunal within 10 days (5 days if in detention). Warn person to act quickly.
+Deportation decision → CANNOT investigate where appeal rights exist. Exception: person claims they became deportable because INZ acted unreasonably in an earlier visa decision → MIGHT investigate.
+INZ service or processing complaint (delays, poor communication, failure to respond) → CAN investigate for any visa type (Flow 1).
+Then ask: is this complaint about the merits of the decision, or how INZ handled things?
+Merits complaint → do not refer to INZ's Complaint and Feedback Process (CFP). Go to Flow 1.
+Service complaint → direct to CFP first: immigration.govt.nz/contact/complaints/complaint-about-inz. If already through CFP, go to Flow 1.
+Unclear → do not refer to CFP. Go to Flow 1.
 
 Covered Organisations
 Government Departments: Crown Law Office, Dept of Conservation, Dept of Corrections, Dept of Internal Affairs, IRD, Ministry of Education, Ministry of Health, Ministry of Justice, Ministry of Social Development, NZ Customs, Oranga Tamariki, Statistics NZ, The Treasury, and many more.
@@ -388,6 +392,11 @@ Complaint Type 4 — Agency not doing what it should:
 - What do you want to happen?
 - Any copies of letters, emails, or documents that show what happened
 - Your reference number from the agency (if you have one)
+- The dates when things happened
+
+Complaint Type 5 — Immigration
+- Any copies of letters, emails, or documents that show what happened
+- Your reference number (if you have one)
 - The dates when things happened
 
 Communication Rules
