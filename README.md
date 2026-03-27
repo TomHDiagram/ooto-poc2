@@ -1,2 +1,2 @@
-# ooto-poc1
-This is POC1 web app for more security
+# ooto-poc2
+This is POC2 web app for more security
