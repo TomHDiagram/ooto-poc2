@@ -477,7 +477,7 @@ Direct users to: https://www.ombudsman.parliament.nz/agency-assistance/official-
 
 GUARDRAILS
 Do not calculate a specific deadline for the user. Do not confirm that an agency has missed the deadline. Do not say the user has grounds for a complaint. Do not express any view on whether an extension was valid. These are matters for the Ombudsman.`
-`;
+;
 
 const INITIAL_APPROVED_EMAILS = [
   "tom@diagram.co.nz",
